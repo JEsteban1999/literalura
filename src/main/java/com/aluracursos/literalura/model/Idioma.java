@@ -5,8 +5,10 @@ public enum Idioma {
     EN("en", "Ingles"),
     PT("pt", "Portugues"),
     FR("fr", "Frances"),
-    AL("al", "Aleman"),
-    IT("it", "Italiano");
+    DE("de", "Aleman"),
+    IT("it", "Italiano"),
+    FI("fi", "Finlandes"),
+    LA("la", "Latin");
 
     private String categoriaGutendex;
     private String categoriaCastellano;
